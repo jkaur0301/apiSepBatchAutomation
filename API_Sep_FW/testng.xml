@@ -12,7 +12,7 @@
       <class name="org.testing.testCases.TC6_InsertEmployee"/>
       <class name="org.testing.testCases.TC7_GetAllEmployees"/>
       <class name="org.testing.testCases.TC8_GetParticularEmployee"/>
-      <class name="org.testing.testCases.TC9_UpdateRecord"/>
+     <class name="org.testing.testCases.TC9_UpdateRecord"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
