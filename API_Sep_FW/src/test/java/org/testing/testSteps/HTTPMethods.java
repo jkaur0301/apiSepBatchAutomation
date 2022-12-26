@@ -3,8 +3,6 @@ package org.testing.testSteps;
 import java.util.Properties;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import io.restassured.response.ResponseBodyData;
-
 import static io.restassured.RestAssured.*;
 public class HTTPMethods 
 {
