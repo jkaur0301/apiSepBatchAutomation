@@ -8,6 +8,26 @@
           <include name="testcase5"/>
         </methods>
       </class> <!-- org.testing.testCases.TC5_Delete_Request -->
+      <class name="org.testing.testCases.TC3_GetParticularRecord">
+        <methods>
+          <include name="testcase3"/>
+        </methods>
+      </class> <!-- org.testing.testCases.TC3_GetParticularRecord -->
+      <class name="org.testing.testCases.TC1_PostRequest">
+        <methods>
+          <include name="testcase1"/>
+        </methods>
+      </class> <!-- org.testing.testCases.TC1_PostRequest -->
+      <class name="org.testing.testCases.TC2_GetAllRequest">
+        <methods>
+          <include name="testcase2"/>
+        </methods>
+      </class> <!-- org.testing.testCases.TC2_GetAllRequest -->
+      <class name="org.testing.testCases.TC4_UpdateRequest">
+        <methods>
+          <include name="testcase4"/>
+        </methods>
+      </class> <!-- org.testing.testCases.TC4_UpdateRequest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
